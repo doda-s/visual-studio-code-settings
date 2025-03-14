@@ -17,3 +17,6 @@
 ### Visuals
 
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+## Fonts
+- [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
