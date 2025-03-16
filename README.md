@@ -10,12 +10,16 @@
 
 ### Tools
 
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer)
+- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ### Visuals
 
+- [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ## Fonts
