@@ -25,3 +25,4 @@
 
 ## Fonts
 - [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
+- [0xProto](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/0xProto.zip)
