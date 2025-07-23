@@ -20,6 +20,8 @@
 - [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
 ### Visuals
 
