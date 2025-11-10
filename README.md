@@ -3,7 +3,7 @@
 ## Themes
 
 - **[Tokyo Night](https://vscodethemes.com/e/enkia.tokyo-night/tokyo-night)**
-- [Catppuccin](https://vscodethemes.com/e/catppuccin.catppuccin-vsc/catppuccin-frappe?language=javascript)
+- [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
 - [GitHub Theme](https://vscodethemes.com/e/github.github-vscode-theme/github-dark?language=javascript)
 - [Rosé Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
 
