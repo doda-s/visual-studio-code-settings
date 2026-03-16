@@ -29,6 +29,10 @@
 - [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
+### Others
+
+- [VSCode Vim](https://open-vsx.org/extension/vscodevim/vim)
+
 ## Fonts
 - [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
 - [0xProto](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/0xProto.zip)
